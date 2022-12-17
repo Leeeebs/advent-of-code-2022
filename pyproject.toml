@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "advent-of-code-2022"
+version = "0.1.0"
+description = ""
+authors = ["Lee Booth <Lee_Booth@live.co.uk>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+names = "^0.3.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.12.0"
+isort = "^5.11.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
