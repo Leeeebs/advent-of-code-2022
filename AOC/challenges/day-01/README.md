@@ -41,7 +41,7 @@ In the example above, this is `24000` (carried by the **fourth Elf**).
 **Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?**
 
 #### --- PART 1: SOLUTION ---
-<img width="868" alt="Screenshot 2022-12-03 at 07 29 25" src="https://user-images.githubusercontent.com/40168753/205430213-5cec5c8d-2ab0-4c90-84bb-9532692ad78e.png">
+<img width="903" alt="Screenshot 2022-12-17 at 18 52 16" src="https://user-images.githubusercontent.com/40168753/208257188-78a70a3d-36ca-4ce9-a79e-c4fe255a6f55.png">
 
 #### --- Part 2 ---
 > By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually run out of snacks.
@@ -55,5 +55,5 @@ The sum of the Calories carried by these three elves is `45000`.
 **Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?***
 
 #### --- Part 2: SOLUTION ---
-<img width="876" alt="Screenshot 2022-12-03 at 07 29 42" src="https://user-images.githubusercontent.com/40168753/205430222-2685d9c3-0eee-481b-a7d0-b835ebfec910.png">
+<img width="918" alt="Screenshot 2022-12-17 at 18 52 33" src="https://user-images.githubusercontent.com/40168753/208257195-dfd64797-9d32-4094-8ec1-156693b8cc2b.png">
 
