@@ -38,8 +38,7 @@ In this example, if you were to follow the strategy guide, you would get a **tot
 **What would your total score be if everything goes exactly according to your strategy guide?**
 
 #### --- Part 1: SOLUTION ---
-<img width="620" alt="Screenshot 2022-12-03 at 05 43 36" src="https://user-images.githubusercontent.com/40168753/205426253-262aa0a0-e69e-4fe6-bbdb-8a1c335b8ba6.png">
-
+<img width="721" alt="Screenshot 2022-12-17 at 18 54 33" src="https://user-images.githubusercontent.com/40168753/208257259-c7e096ca-b3c0-4af0-a066-b9e51a252db7.png">
 
 #### --- Part 2 ---
 > The Elf finishes helping with the tent and sneaks back over to you. "Anyway, the second column says how the round needs to end: X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win. Good luck!"
@@ -55,5 +54,5 @@ Now that you're correctly decrypting the ultra top secret strategy guide, you wo
 **Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?**
 
 #### --- Part 2: SOLUTION ---
-<img width="694" alt="Screenshot 2022-12-03 at 07 17 14" src="https://user-images.githubusercontent.com/40168753/205429734-d4d489e0-8efc-4292-96ad-7001abfcc3b4.png">
+<img width="719" alt="Screenshot 2022-12-17 at 18 54 48" src="https://user-images.githubusercontent.com/40168753/208257264-aa694b21-4048-46bf-b54d-53e6941572b5.png">
 
