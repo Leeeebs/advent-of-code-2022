@@ -40,10 +40,10 @@ the sum of these is `157`.
 **Find the item type that appears in both compartments of each rucksack. What is the sum of the priorities of those item types?**
 
 #### --- Part 1: SOLUTION ---
-<img width="620" alt="Screenshot 2022-12-03 at 10 02 00" src="https://user-images.githubusercontent.com/40168753/205435352-0ae05c52-63c1-44de-b285-4fd3a910a202.png">
+<img width="603" alt="Screenshot 2022-12-17 at 18 56 12" src="https://user-images.githubusercontent.com/40168753/208257319-c221fba5-144b-4591-90c3-addc4cc3c6f6.png">
 
 
-#### --- Part Two ---
+#### --- Part 2 ---
 > As you finish identifying the misplaced items, the Elves come to you with another issue.
 
 > For safety, the Elves are divided into groups of three. Every Elf carries a badge that identifies their group. For efficiency, within each group of three Elves, the badge is the only item type carried by all three Elves. That is, if a group's badge is item type B, then all three Elves will have item type B somewhere in their rucksack, and at most two of the Elves will be carrying any other item type.
@@ -71,4 +71,7 @@ Priorities for these items must still be found to organize the sticker attachmen
 here, they are **18** (`r`) for the first group and **52** (`Z`) for the second group. The sum of these is **70**.
 
 **Find the item type that corresponds to the badges of each three-Elf group. What is the sum of the priorities of those item types?**
+
+#### --- Part 2: SOLUTION ---
+<img width="646" alt="Screenshot 2022-12-17 at 18 56 27" src="https://user-images.githubusercontent.com/40168753/208257348-e84dacc2-8df0-480c-a96a-e107d154b4dc.png">
 
