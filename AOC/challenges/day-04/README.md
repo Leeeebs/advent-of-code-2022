@@ -55,7 +55,7 @@ In this example, there are `2 such pairs`.
 **In how many assignment pairs does one range fully contain the other?**
 
 #### --- Part 1: SOLUTION ---
-<img width="505" alt="Screenshot 2022-12-08 at 19 36 17" src="https://user-images.githubusercontent.com/40168753/206551071-a33bdebb-5000-4c0c-8924-d63355f1a78f.png">
+<img width="581" alt="Screenshot 2022-12-17 at 18 58 55" src="https://user-images.githubusercontent.com/40168753/208257432-c2a42c39-89d6-4e40-a4a3-474d96a387d1.png">
 
 
 #### --- Part 2 ---
@@ -74,5 +74,6 @@ So, in this example, the number of overlapping assignment pairs is `4`.
 **In how many assignment pairs do the ranges overlap?**
 
 #### --- Part 2: SOLUTION ---
+<img width="595" alt="Screenshot 2022-12-17 at 18 59 14" src="https://user-images.githubusercontent.com/40168753/208257447-d3618179-965b-492e-b023-9cdf37fefcfd.png">
 
 
