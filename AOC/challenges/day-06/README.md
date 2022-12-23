@@ -42,6 +42,7 @@ Here are a few more examples:
 **How many characters need to be processed before the first start-of-packet marker is detected?**
 
 #### --- Part 1: SOLUTION ---
+<img width="876" alt="Screenshot 2022-12-23 at 20 03 59" src="https://user-images.githubusercontent.com/40168753/209401613-c194027f-0b36-4518-b5b5-e0e91e2c9b17.png">
 
 
 #### --- Part 2: ---
@@ -67,4 +68,7 @@ Here are the first positions of start-of-message markers for all of the above ex
 &ensp;first marker after character 26
 
 **How many characters need to be processed before the first start-of-message marker is detected?**
+
+#### --- Part 2: SOLUTION ---
+<img width="863" alt="Screenshot 2022-12-23 at 20 04 36" src="https://user-images.githubusercontent.com/40168753/209401623-21db2d1f-27da-4bc1-80e5-84aad71cd5cc.png">
 
