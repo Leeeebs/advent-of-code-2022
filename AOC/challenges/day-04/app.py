@@ -10,7 +10,7 @@ def get_elf_pairs() -> Generator:
     with open("AOC/challenges/day-04/static/puzzle_input.txt") as f:
         for line in f.readlines():
             assignment_1, assignment_2 = line.split(",")
-            yield (Elf(assignment_1), Elf(assignment_2))
+    yield (Elf(assignment_1), Elf(assignment_2))
 
 
 def main():
