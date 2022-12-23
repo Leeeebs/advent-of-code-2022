@@ -22,3 +22,8 @@ class StackManager:
         item = getattr(self, f"stack_{from_stack}").pop()
         getattr(self, f"stack_{to_stack}").append(item)
 
+    def move_group(self, from_stack: int, to_stack: int, amount: int) -> None:
+        """Remove a group of items from one stack & add to another"""
+        stack = getattr(self, f"stack_{from_stack}")
+        getattr(self, f"stack_{to_stack}").extend(stack[-amount:])
+        setattr(self, f"stack_{from_stack}", stack[:-amount])

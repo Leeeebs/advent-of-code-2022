@@ -23,19 +23,26 @@ def parse_stacks(file_data: List[str], end_line: int = 8) -> zip:
 def parse_instructions(file_data: List[str], start_line: int = 11) -> Generator:
     """Parse instructions from the rest of the file"""
     for line in file_data[start_line-1:]:
-        yield tuple(x.strip() for x in line.split(" ") if x.strip().isnumeric())
+        yield tuple(int(x.strip()) for x in line.split(" ") if x.strip().isnumeric())
 
 
 def main():
     with open("AOC/challenges/day-05/static/puzzle_input.txt") as f:
         input_data: List[str] = f.readlines()
 
-    sm = StackManager(list(parse_stacks(input_data)))
-    for amount, stack1, stack2 in parse_instructions(input_data):
-        [
-            sm.move(from_stack=int(stack1), to_stack=int(stack2))
-            for _ in range(int(amount))
-        ]
+    sm_1 = StackManager(list(parse_stacks(input_data)))
 
-    log.info(f"top crates: {sm.top_items}")
+    for amount, stack1, stack2 in parse_instructions(input_data):
+        for _ in range(amount):
+            sm_1.move(from_stack=stack1, to_stack=stack2)
+
+    log.info(f"PART 1 - top crates: {sm_1.top_items}")
+
+
+    sm_2 = StackManager(list(parse_stacks(input_data)))
+
+    for amount, stack1, stack2 in parse_instructions(input_data):
+        sm_2.move_group(from_stack=stack1, to_stack=stack2, amount=amount)
+
+    log.info(f"PART 2 - top crates: {sm_2.top_items}")
 
