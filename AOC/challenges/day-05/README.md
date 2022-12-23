@@ -79,6 +79,7 @@ so you should combine these together and give the Elves the message `CMZ`.
 **After the rearrangement procedure completes, what crate ends up on top of each stack?**
 
 #### --- Part 1: SOLUTION ---
+<img width="647" alt="Screenshot 2022-12-23 at 18 58 59" src="https://user-images.githubusercontent.com/40168753/209394843-f69d685a-1432-4a44-9279-5b695de245f3.png">
 
 
 #### --- Part 2: ---
@@ -133,5 +134,5 @@ In this example, the CrateMover 9001 has put the crates in a totally different o
 **After the rearrangement procedure completes, what crate ends up on top of each stack?**
 
 
-
 #### --- Part 2: SOLUTION ---
+<img width="646" alt="Screenshot 2022-12-23 at 18 59 13" src="https://user-images.githubusercontent.com/40168753/209394815-bfaaa12b-6f62-4c2f-8a90-e13d1e2579f6.png">
