@@ -103,6 +103,7 @@ Its total size is `48381165`, the sum of the size of every file.
 **Find all of the directories with a total size of at most 100000. What is the sum of the total sizes of those directories?**
 
 #### --- Part 1: SOLUTION ---
+<img width="905" alt="Screenshot 2022-12-24 at 19 13 08" src="https://user-images.githubusercontent.com/40168753/209448660-d2d29f05-6544-4867-b03f-1881eabd56c4.png">
 
 
 #### --- Part 2: ---
@@ -131,4 +132,5 @@ Between these, <u>choose the smallest</u>: `d`, increasing unused space by `2493
 
 
 #### --- Part 2: SOLUTION ---
+<img width="1026" alt="Screenshot 2022-12-24 at 19 13 23" src="https://user-images.githubusercontent.com/40168753/209448665-3d8d6f42-615c-4673-8522-2f9ac14114ae.png">
 
