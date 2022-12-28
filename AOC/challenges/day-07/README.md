@@ -64,6 +64,7 @@ It prints out all of the files and directories immediately contained by the curr
 
 - `dir xyz` means that the current directory contains a directory named `xyz`.
 
+#### --- Part 1 ---
 Given the commands and output in the example above, you can determine that the filesystem looks visually like this:
 
 ```

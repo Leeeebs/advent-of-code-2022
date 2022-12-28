@@ -3,7 +3,7 @@ from typing import Generator
 
 
 class Device:
-    """A class to represent a conputer device with a file system"""
+    """A class to represent a computer device with a file system"""
     class File:
         """A class to represent a file on a Device"""
         def __init__(self, name: str, size: int) -> None:
