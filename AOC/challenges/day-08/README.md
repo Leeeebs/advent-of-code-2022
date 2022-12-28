@@ -40,7 +40,7 @@ With `16` trees `visible` on the edge and another `5` `visible` in the interior,
 **Consider your map; how many trees are visible from outside the grid?**
 
 #### --- Part 1: SOLUTION ---
-
+<img width="778" alt="Screenshot 2022-12-28 at 17 18 48" src="https://user-images.githubusercontent.com/40168753/209849175-4b3f3e8f-6d3a-4a0a-ab07-9a967dff8a50.png">
 
 
 #### --- Part 2 ---
@@ -98,4 +98,5 @@ This tree's scenic score is `8` (`2 * 2 * 1 * 2`); this is the ideal spot for th
 **Consider each tree on your map. What is the highest scenic score possible for any tree?**
 
 #### --- Part 2: SOLUTION ---
+<img width="833" alt="Screenshot 2022-12-28 at 17 19 03" src="https://user-images.githubusercontent.com/40168753/209849159-7e2ce3f6-d7f5-4c0d-8aef-a3b9d25c92de.png">
 
