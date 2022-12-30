@@ -251,8 +251,7 @@ So, there are `13` positions the tail visited at least once.
 **Simulate your complete hypothetical series of motions. How many positions does the tail of the rope visit at least once?**
 
 #### --- Part 1: SOLUTION ---
-
-
+<img width="843" alt="Screenshot 2022-12-30 at 01 51 18" src="https://user-images.githubusercontent.com/40168753/210029002-988354ea-4eeb-4f56-8c79-098c3c5a4eda.png">
 
 
 
@@ -696,3 +695,6 @@ Now, the tail (9) visits 36 positions (including s) at least once:
 **How many positions does the tail of the rope visit at least once?**
 
 #### --- Part 2: SOLUTION ---
+<img width="853" alt="Screenshot 2022-12-30 at 01 51 35" src="https://user-images.githubusercontent.com/40168753/210029091-300cb629-9dc3-4cc8-9c07-64d48cb02ddf.png">
+
+
